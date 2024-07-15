@@ -1,0 +1,16 @@
+{
+    "name": "@brysgo/eslint-plugin-lambda-quirks",
+    "version": "1.0.3",
+    "main": "lib/index.js",
+    "dependencies": {
+        "requireindex": "^1.2.0"
+    },
+    "devDependencies": {
+        "eslint": "^8.57.0"
+    },
+    "keywords": [
+        "eslint",
+        "eslintplugin",
+        "imports"
+    ]
+}
